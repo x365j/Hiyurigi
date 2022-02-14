@@ -13,7 +13,7 @@
         <img height="25" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" alt="Gmail" />
     </a>
     │
-    <a href="https://www.facebook.com/profile.php?id=100008497934853">
+    <a href="https://www.facebook.com/hiyurigi">
         <img height="25" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" alt="Facebook" />
     </a>
     │
