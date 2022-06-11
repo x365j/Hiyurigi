@@ -1,7 +1,7 @@
 <div>
     <p align="center">
         <img height="200" src="./Cover-pict.png" alt="My cover picture">
-        <h3> Hello im Hiyurigi👋 Im a professional programmer im focused on NodeJS, Elixir, Julia and Rust, but i also using Go, C++/C#, python, php, and kotlin/java.</h3>
+        <h3> Hello im Hiyurigi👋 Im a professional programmer currently focused on NodeJS, Elixir, Julia and Rust, but i also using Go, C++/C#, python, php, and kotlin/java.</h3>
     </p>
     <div align="center">
         <h1>Contact:</h1>
