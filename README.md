@@ -29,7 +29,7 @@
 - 🤔 I’m looking for help with bootloader and kernel dev
 - 💬 Ask me about anything
 - 📫 How to reach me: im already put my contact above this
-<!-- - 😄 Pronouns: ... -->
+- 😄 Pronouns: ...
 - ⚡ Fun fact: i fall in love with myself
 
 <div align="center">
