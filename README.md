@@ -24,7 +24,7 @@
     </div>
 
 - 🔭 I’m currently working on compression algorithm
-- 🌱 I’m currently learning os dev
+- 🌱 I’m currently learning Elixir
 - 👯 I’m looking to collaborate on os dev
 - 🤔 I’m looking for help with bootloader and kernel dev
 - 💬 Ask me about anything
