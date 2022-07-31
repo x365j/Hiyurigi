@@ -1,4 +1,4 @@
-![Hiyurigi Header](https://cardivo.vercel.app/api?name=Kaffu%20Theine&description=Hi,%20im%20a%20fullstack%20developer,%20nice%20to%20meet%20you%F0%9F%91%8B&image=https://github.com/hiyurigi.png&backgroundColor=%23ecf0f1&instagram=hiyurigi&linkedin=hiyurigi&github=hiyurgi&twitter=hiyurigi&pattern=leaf&colorPattern=%233CBDB1&opacity=0.3)
+![Hiyurigi Header](https://cardivo.vercel.app/api?name=Kaffu%20Theine&description=Hi,%20im%20a%20fullstack%20developer,%20nice%20to%20meet%20you%F0%9F%91%8B&image=https://github.com/hiyurigi.png&backgroundColor=%23ecf0f1&instagram=hiyurigi&linkedin=hiyurigi&github=hiyurigi&twitter=hiyurigi&pattern=leaf&colorPattern=%233CBDB1&opacity=0.3)
 
 <div align="center">
 
